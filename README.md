@@ -3,5 +3,5 @@ a basic project to reproduce geOrchestra bug #850 (unable to extract vector prot
 
 to be run using:
 ```bash
-$ mvn exec:java
+$ mvn clean install exec:java
 ```
